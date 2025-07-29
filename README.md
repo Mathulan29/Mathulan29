@@ -85,4 +85,4 @@ Here's what I've learned so far:
 
 ### 📬 How to Reach Me:
 - *Email*: [srimathulan@gmail.com](mailto:srimathulan@gmail.com)
-- *LinkedIn*: [[linkedin.com/in/benshekniel](https://lk.linkedin.com/in/benshekniel](https://www.linkedin.com/in/mathulan-sritharan-11a51728a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- *LinkedIn*: [[linkedin.com/in/Mathulan Sritharan](https://lk.linkedin.com/in/benshekniel](https://www.linkedin.com/in/mathulan-sritharan-11a51728a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
