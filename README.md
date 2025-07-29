@@ -1,16 +1,12 @@
-## Hi there 👋
+### 📊 GitHub Stats & Analytics
 
-<!--
-**Mathulan29/Mathulan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathulan29&layout=compact&theme=default" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathulan29&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathulan29&theme=default" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathulan29&theme=(https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies">
+  <br />
+</p>
